@@ -1,0 +1,37 @@
+[
+  {
+    "icon": "Tools",
+    "name": "IT-Tools",
+    "link": "https://tools.openroute.qzz.io/"
+  },
+  {
+    "icon": "FilePdf",
+    "name": "BentoPDF",
+    "link": "https://pdf.openroute.qzz.io/"
+  },
+  {
+    "icon": "Clipboard",
+    "name": "MicroBin",
+    "link": "https://paste.openroute.qzz.io/"
+  },
+  {
+    "icon": "Dumbbell",
+    "name": "健身动作库",
+    "link": "https://gym.openroute.qzz.io/"
+  },
+  {
+    "icon": "Home",
+    "name": "购房指北",
+    "link": "https://house.openroute.qzz.io/"
+  },
+  {
+    "icon": "ChartLine",
+    "name": "A股智能分析",
+    "link": "https://stock.openroute.qzz.io/"
+  },
+  {
+    "icon": "Gamepad",
+    "name": "RetroAssembly",
+    "link": "https://game.openroute.qzz.io/"
+  }
+]
