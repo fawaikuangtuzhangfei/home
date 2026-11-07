@@ -10,14 +10,9 @@
     "link": "https://pdf.openroute.qzz.io/"
   },
   {
-    "icon": "Clipboard",
-    "name": "MicroBin",
-    "link": "https://paste.openroute.qzz.io/"
-  },
-  {
-    "icon": "Dumbbell",
-    "name": "健身动作库",
-    "link": "https://gym.openroute.qzz.io/"
+    "icon": "FileAlt",
+    "name": "anydoc",
+    "link": "https://doc.openroute.qzz.io/"
   },
   {
     "icon": "Home",
@@ -25,13 +20,8 @@
     "link": "https://house.openroute.qzz.io/"
   },
   {
-    "icon": "ChartLine",
-    "name": "A股智能分析",
-    "link": "https://stock.openroute.qzz.io/"
-  },
-  {
-    "icon": "Gamepad",
-    "name": "RetroAssembly",
-    "link": "https://game.openroute.qzz.io/"
+    "icon": "Dumbbell",
+    "name": "健身动作库",
+    "link": "https://gym.openroute.qzz.io/"
   }
 ]

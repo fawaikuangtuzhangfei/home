@@ -43,7 +43,7 @@
 <script setup>
 import { Icon } from "@vicons/utils";
 // 可前往 https://www.xicons.org 自行挑选并在此处引入
-import { Link, Tools, FilePdf, Clipboard, Dumbbell, Home, ChartLine, Gamepad } from "@vicons/fa"; // 注意使用正确的类别
+import { Link, Tools, FilePdf, FileAlt, Dumbbell, Home } from "@vicons/fa"; // 注意使用正确的类别
 import { mainStore } from "@/store";
 import { Swiper, SwiperSlide } from "swiper/vue";
 import { Pagination, Mousewheel } from "swiper/modules";
@@ -65,11 +65,9 @@ const siteLinksList = computed(() => {
 const siteIcon = {
   Tools,
   FilePdf,
-  Clipboard,
+  FileAlt,
   Dumbbell,
   Home,
-  ChartLine,
-  Gamepad,
 };
 
 // 链接跳转
